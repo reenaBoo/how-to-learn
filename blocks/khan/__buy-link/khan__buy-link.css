@@ -5,6 +5,7 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  align-self: flex-start;
   transition: opacity 0.2s linear;
 }
 
